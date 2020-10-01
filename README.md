@@ -4,5 +4,5 @@ Input files and coding methodologies from paper titled, "Geographic Disparities 
 
 Please note that due to ESRI's StreetMap Premium licensing agreements, we are unable to share the origin-destination (O-D) travel time matrix used for many analyses. We do share other input files and results. The data structure of the O-D matrix is shared in this repository, as well as, code used to generate results.
 
-![Image of University of Alabama Institute of Data and Analytics](https://github.com/lewis060-UAT/xcjvb_2363/blob/master/Images/CapstoneA2Logo.InstituteDataAnalytics.png?raw=true)
-![Image of University of Alabama Lab for Location Science](https://github.com/lewis060-UAT/xcjvb_2363/blob/master/Images/lablocsci_logo_bg.png?raw=true)
+![Image of University of Alabama Institute of Data and Analytics](https://github.com/lewis060-UAT/xcjvb_2363/blob/master/Images/CapstoneA2Logo.InstituteDataAnalytics.png?raw=true | width=100)
+![Image of University of Alabama Lab for Location Science](https://github.com/lewis060-UAT/xcjvb_2363/blob/master/Images/lablocsci_logo_bg.png?raw=true | width=100)
