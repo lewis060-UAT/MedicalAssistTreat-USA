@@ -3,3 +3,5 @@ Input files and coding methodologies from paper titled, "Geographic Disparities 
 
 
 Please note that due to ESRI's StreetMap Premium licensing agreements, we are unable to share the origin-destination (O-D) travel time matrix used for many analyses. We do share other input files and results. The data structure of the O-D matrix is shared in this repository, as well as, code used to generate results.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
