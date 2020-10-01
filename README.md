@@ -6,9 +6,9 @@ Please note that due to ESRI's StreetMap Premium licensing agreements, we are un
 <br><br><br>
 <div class="row">
   <div class="column">
-    <img src="https://github.com/lewis060-UAT/xcjvb_2363/blob/master/Images/CapstoneA2Logo.InstituteDataAnalytics.png?raw=true" alt="Image of University of Alabama Institute of Data and Analytics" >
+    <img src="https://github.com/lewis060-UAT/xcjvb_2363/blob/master/Images/CapstoneA2Logo.InstituteDataAnalytics.png?raw=true" alt="Image of University of Alabama Institute of Data and Analytics" style="width: 50%; height: 50%">
   </div>
   <div class="column">
-    <img src="https://github.com/lewis060-UAT/xcjvb_2363/blob/master/Images/lablocsci_logo_bg.png?raw=true" alt="Image of University of Alabama Lab for Location Science">
+    <img src="https://github.com/lewis060-UAT/xcjvb_2363/blob/master/Images/lablocsci_logo_bg.png?raw=true" alt="Image of University of Alabama Lab for Location Science" style="width: 50%; height: 50%">
   </div>
 </div>
